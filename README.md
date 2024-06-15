@@ -14,4 +14,7 @@ You should first install all the following libraries:
 - pip install -q -U google-generativeai
 - pip install streamlit
 
+### all available hand gestures
 ![](hand_gestures.png)
+
+### video explanation
