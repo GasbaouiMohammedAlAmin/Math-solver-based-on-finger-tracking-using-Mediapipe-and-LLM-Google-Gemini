@@ -19,7 +19,7 @@ with column2:
      st.title("Answer")   
      outputText=st.subheader("")
 
-genai.configure(api_key="AIzaSyB6XWyw0G5g_kVoHHHP20mHovf-KiIONQI")
+genai.configure(api_key="your_api_key")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize the webcam to capture video
