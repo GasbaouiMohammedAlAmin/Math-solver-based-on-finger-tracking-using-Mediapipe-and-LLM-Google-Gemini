@@ -18,3 +18,4 @@ You should first install all the following libraries:
 ![](hand_gestures.png)
 
 ### video explanation
+https://www.youtube.com/watch?v=O_W8h15scLM
