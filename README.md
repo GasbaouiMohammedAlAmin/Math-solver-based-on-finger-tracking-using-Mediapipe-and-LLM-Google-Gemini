@@ -1,4 +1,4 @@
-# Math solver based on finger tracking using Mediapipe and LLM Google Gemini
+# Math solver problems based on finger tracking using Mediapipe and LLM Google Gemini
 This project is based on the media pipe library, open CV, and generative.ai google gemini. You can write a math equation on canvas using one finger and send it to the LLM Gemini to receive a response.
 
 How do I interact with the project:
